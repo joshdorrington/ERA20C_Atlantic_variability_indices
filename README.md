@@ -13,3 +13,4 @@ The csv file contains a range of indices for Boreal winter (DJF) from 1900 until
 For more detail on these indices see Dorrington & Strommen 2020, and references therein.
 
 If you notice any problems or errors with this data, please feel free to contact joshua.dorrington@physics.ox.ac.uk
+Generating python code available upon reasonable request.
